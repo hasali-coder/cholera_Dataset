@@ -1,4 +1,3 @@
-
 # README
 
 ## Project Title: Cholera Dataset Analysis
@@ -36,3 +35,12 @@ To set up the environment, run the following commands in the notebook:
 ```bash
 !apt-get install -y r-base
 !R --version
+
+### Usage
+1. Open the Jupyter Notebook.
+2. Run the setup cells to install the required packages.
+3. Execute the data cleaning and transformation steps.
+4. Analyze the cleaned and processed dataset.
+
+### Author
+Cosmas Muange
