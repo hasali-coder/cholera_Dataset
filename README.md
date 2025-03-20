@@ -7,8 +7,6 @@
 ### Author
 Ali Cosmas Muange
 
-# README
-
 ## Project Title: Cholera Dataset Analysis
 
 ### Description
